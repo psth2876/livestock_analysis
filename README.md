@@ -132,14 +132,7 @@ production.
 
 ### 3.6 Line plot to display the Cotton yield in three districts of Nepal. 
 
-![A picture containing graphical user interface Description
-automatically generated](media/image12.jpg)
-
-*Figure 85: Code to display the Cotton yield in three districts of
-Nepal.*
-
-![A picture containing graphical user interface Description
-automatically generated](media/image13.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729629-b889cf72-dacc-42a9-bab2-70d12fd2681a.png)
 
 *Figure 86: Line plot to display the Cotton yield in three districts of
 Nepal.*
@@ -153,14 +146,7 @@ shows maximum yield is in banke while Dang has low yield.
 
 ### 3.7 Line plot to display the Rabbit total population as per the regions of Nepal. 
 
-![A picture containing calendar Description automatically
-generated](media/image14.jpg)
-
-*Figure 87: Code to display the Rabbit total population as per the
-regions of Nepal.*
-
-![Chart, line chart Description automatically generated with medium
-confidence](media/image15.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729716-d379f66d-3f25-4507-bf53-1a4cbe9881ae.png)
 
 *Figure 88: Line plot to display the Rabbit total population as per the
 regions of Nepal.*
@@ -177,8 +163,7 @@ indicates lowest number of rabbits.
 
 ### 3.8 Heatmap correlation to show the total production of items. 
 
-![Chart, treemap chart Description automatically
-generated](media/image16.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729827-75202d63-b65d-4bce-b9c6-605f8a0f20bf.png)
 
 In the above heat map correlation, the color codes used shows us the
 strength of each variable for Total Milk Produced, Total Eggs, Total
@@ -189,13 +174,7 @@ light i.e., 1.0 to 0.
 
 ### 3.9 Point plot to show the net meat production in different regions of Nepal. 
 
-![Table Description automatically generated](media/image17.jpg)
-
-*Figure 89: Code to show the net meat production in different regions of
-Nepal.*
-
-![Chart, line chart Description automatically
-generated](media/image18.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729917-8bd42d4d-b3e2-45a5-9906-42f72ac50bb6.png)
 
 *Figure 90: Point plot to show the net meat production in different
 regions of Nepal.*
