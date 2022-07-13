@@ -49,13 +49,7 @@ District, Sheep’s number and Sheep wool produced.
 
 ### 3.1 Bar plot analysis of Horse/Asses in Western Development Region of Nepal. 
 
-![Graphical user interface, application, table, Excel Description
-automatically generated](media/image1.jpg)
-
-*Figure 75: Code for analysis of Horse/Asses in Western Development
-Region of Nepal.*
-
-![Chart Description automatically generated](media/image2.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178728863-d09bc76c-4890-44e4-a676-1ba49576bb5a.png)
 
 *Figure 76: Bar plot analysis of Horse/Asses in Western Development
 Region of Nepal.*
@@ -69,14 +63,7 @@ is available in Baglung, Parbat and kapilbastu.
 
 ### 3.2 Bar plot diagram to represent the hen and duck egg production in development regions of Nepal. 
 
-![Graphical user interface, application, table Description automatically
-generated](media/image3.jpg)
-
-*Figure 77: Code for hen and duck egg production in development regions
-of Nepal.*
-
-![Chart, bar chart Description automatically
-generated](media/image4.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178728954-016487dc-9612-4ca2-86ee-bb8e86bfeab6.png)
 
 *Figure 78: Bar plot diagram to represent the hen and duck egg
 production in development regions of Nepal.*
@@ -92,14 +79,7 @@ lowest duck egg production is in FW. Region.
 
 ### 3.3 Pie chart diagram to display the Sheep Wool production according to the development Region of Nepal. 
 
-![A picture containing calendar Description automatically
-generated](media/image5.jpg)
-
-*Figure 79: Code for displaying the Sheep Wool production according to
-the development Region of Nepal.*
-
-![Chart, pie chart Description automatically
-generated](media/image6.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729028-085db9ea-9f5d-4829-8376-11e6822d31e3.png)
 
 *Figure 80: Pie chart diagram to display the Sheep Wool production
 according to the development Region of Nepal.*
@@ -113,14 +93,7 @@ respectively.
 
 ### 3.4 Pie chart diagram to display the Yak/Nak/Chauri number according to Development Region. 
 
-![Graphical user interface Description automatically generated with
-medium confidence](media/image7.jpg)
-
-*Figure 81: Code to display the Yak/Nak/Chauri number according to
-Development Region.*
-
-![Chart, pie chart Description automatically
-generated](media/image8.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729112-2ab43011-3d93-4c94-abbe-ee3082a81200.png)
 
 *Figure 82: Pie chart diagram to display the Yak/Nak/Chauri number
 according to Development Region.*
@@ -134,17 +107,9 @@ Region, there are 18.14% yak population.
 
 ### 3.5 Bar plot and sub plots to display the milk production in all the categorized regions of Nepal. 
 
-![Graphical user interface Description automatically generated with low
-confidence](media/image9.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729386-44e4ed9e-e8eb-498f-9162-603c5b5c8e3e.png)
 
-*Figure 83: Code to display the milk production in all the categorized
-regions of Nepal.*
-
-![Chart, bar chart Description automatically
-generated](media/image10.jpg)
-
-![A picture containing text, writing implement, screenshot Description
-automatically generated](media/image11.jpg)
+![image](https://user-images.githubusercontent.com/23220212/178729488-99fcf79a-d046-4a61-8c2b-ba4019b6c5cf.png)
 
 *Figure 84: Bar plot and sub plots to display the milk production in all
 the categorized regions of Nepal.*
