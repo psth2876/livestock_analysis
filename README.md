@@ -10,7 +10,7 @@ different methods and perform Exploratory Data Analysis.
 
 ### 
 
-## 2\. Initial Analysis
+## 2\. Initial Analysis 
 
 The data sources and merge them into a single data source.
 
@@ -51,7 +51,7 @@ District, Sheep’s number and Sheep wool produced.
 
 ![image](https://user-images.githubusercontent.com/23220212/178728863-d09bc76c-4890-44e4-a676-1ba49576bb5a.png)
 
-*Figure 76: Bar plot analysis of Horse/Asses in Western Development
+*Figure: Bar plot analysis of Horse/Asses in Western Development
 Region of Nepal.*
 
 In the above bar plot we are showing the western development region of
@@ -65,7 +65,7 @@ is available in Baglung, Parbat and kapilbastu.
 
 ![image](https://user-images.githubusercontent.com/23220212/178728954-016487dc-9612-4ca2-86ee-bb8e86bfeab6.png)
 
-*Figure 78: Bar plot diagram to represent the hen and duck egg
+*Figure: Bar plot diagram to represent the hen and duck egg
 production in development regions of Nepal.*
 
 The above bar plot represents the hen and duck eggs production in
@@ -81,7 +81,7 @@ lowest duck egg production is in FW. Region.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729028-085db9ea-9f5d-4829-8376-11e6822d31e3.png)
 
-*Figure 80: Pie chart diagram to display the Sheep Wool production
+*Figure: Pie chart diagram to display the Sheep Wool production
 according to the development Region of Nepal.*
 
 The above pie chart represents the total production of sheep wools in
@@ -95,7 +95,7 @@ respectively.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729112-2ab43011-3d93-4c94-abbe-ee3082a81200.png)
 
-*Figure 82: Pie chart diagram to display the Yak/Nak/Chauri number
+*Figure: Pie chart diagram to display the Yak/Nak/Chauri number
 according to Development Region.*
 
 The above pie chart represents the total population of yak/nak/chauri in
@@ -111,7 +111,7 @@ Region, there are 18.14% yak population.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729488-99fcf79a-d046-4a61-8c2b-ba4019b6c5cf.png)
 
-*Figure 84: Bar plot and sub plots to display the milk production in all
+*Figure: Bar plot and sub plots to display the milk production in all
 the categorized regions of Nepal.*
 
 All the above subplots are divided into five different regions of Nepal
@@ -134,7 +134,7 @@ production.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729629-b889cf72-dacc-42a9-bab2-70d12fd2681a.png)
 
-*Figure 86: Line plot to display the Cotton yield in three districts of
+*Figure: Line plot to display the Cotton yield in three districts of
 Nepal.*
 
 The above line plot is plotted from three districts of Nepal that
@@ -148,7 +148,7 @@ shows maximum yield is in banke while Dang has low yield.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729716-d379f66d-3f25-4507-bf53-1a4cbe9881ae.png)
 
-*Figure 88: Line plot to display the Rabbit total population as per the
+*Figure: Line plot to display the Rabbit total population as per the
 regions of Nepal.*
 
 The above line plot is extracted and plotted on basis of total rabbit
@@ -165,6 +165,9 @@ indicates lowest number of rabbits.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729827-75202d63-b65d-4bce-b9c6-605f8a0f20bf.png)
 
+*Figure: Heatmap correlation to show the production of all livestock items in different
+regions of Nepal.*
+
 In the above heat map correlation, the color codes used shows us the
 strength of each variable for Total Milk Produced, Total Eggs, Total
 Meat, and Sheep Wool Produced. If the correlation is strong among the
@@ -176,7 +179,7 @@ light i.e., 1.0 to 0.
 
 ![image](https://user-images.githubusercontent.com/23220212/178729917-8bd42d4d-b3e2-45a5-9906-42f72ac50bb6.png)
 
-*Figure 90: Point plot to show the net meat production in different
+*Figure: Point plot to show the net meat production in different
 regions of Nepal.*
 
 The above point plot represents the net meat production according to
